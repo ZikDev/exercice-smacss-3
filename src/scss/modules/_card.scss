@@ -1,5 +1,7 @@
-.card-img {
-  width: fit-content;
+.card {
+  width: 350px;
+  height: 277px;
+  flex-shrink: 0;
 }
 
 .card-description {
